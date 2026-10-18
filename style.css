@@ -13,13 +13,13 @@ h1 {
 
 p {
     color: #555;
-    font-size: 20px;
+    font-size: 24px;
 }
 
 button {
     background-color: #2563eb;
     color: white;
-    padding: 12px 26px;
+    padding: 22px 30px;
     border: none;
     border-radius: 10px;
     cursor: pointer;
